@@ -1,9 +1,7 @@
 # portfolio
 My Portfolio
 
-Hi there, 
-
-I'm wanting to showcase example code snippets & dashboards. 
+## Wanting to showcase example code snippets & dashboards. 
 
 You can expect the usual suspects in this repo, as I'm trying to give a flavour of what I can use.
 
